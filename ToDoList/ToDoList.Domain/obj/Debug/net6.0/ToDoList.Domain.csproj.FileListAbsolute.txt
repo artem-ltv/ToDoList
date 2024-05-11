@@ -1,0 +1,14 @@
+D:\Projects\C#\ToDoList\ToDoList.Domain\bin\Debug\net6.0\ToDoList.Domain.deps.json
+D:\Projects\C#\ToDoList\ToDoList.Domain\bin\Debug\net6.0\ToDoList.Domain.runtimeconfig.json
+D:\Projects\C#\ToDoList\ToDoList.Domain\bin\Debug\net6.0\ToDoList.Domain.dll
+D:\Projects\C#\ToDoList\ToDoList.Domain\bin\Debug\net6.0\ToDoList.Domain.pdb
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ToDoList.Domain.csproj.AssemblyReference.cache
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ToDoList.Domain.AssemblyInfoInputs.cache
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ToDoList.Domain.AssemblyInfo.cs
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ToDoList.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ToDoList.Domain.dll
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\refint\ToDoList.Domain.dll
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ToDoList.Domain.pdb
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ToDoList.Domain.genruntimeconfig.cache
+D:\Projects\C#\ToDoList\ToDoList.Domain\obj\Debug\net6.0\ref\ToDoList.Domain.dll
