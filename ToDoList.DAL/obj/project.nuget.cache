@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6rPtmIZtDGNF8Sy8DwZmIUbact35Yz6IblDL59u/yiUFBIRuqb55GjnRsLfyw5/Gdnkxj695mZcZ2tvq/XbgBg==",
+  "dgSpecHash": "0OUpR7nRaNf5j0wUvo9BUOF3dpFfeAMmZMMqyWCGcLfyAJ6mzmP0RsehDIMLX2zAr48nsmZFwGYWTMVoc+I4pA==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\C#\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
+  "projectFilePath": "D:\\GitHub\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\artemLitvinenko\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.20\\microsoft.entityframeworkcore.7.0.20.nupkg.sha512",
     "C:\\Users\\artemLitvinenko\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.20\\microsoft.entityframeworkcore.abstractions.7.0.20.nupkg.sha512",

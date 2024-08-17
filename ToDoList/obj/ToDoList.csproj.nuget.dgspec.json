@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projects\\C#\\ToDoList\\ToDoList\\ToDoList.csproj": {}
+    "D:\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "D:\\Projects\\C#\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+    "D:\\GitHub\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
+        "projectUniqueName": "D:\\GitHub\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
         "projectName": "ToDoList.DAL",
-        "projectPath": "D:\\Projects\\C#\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
+        "projectPath": "D:\\GitHub\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj",
         "packagesPath": "C:\\Users\\artemLitvinenko\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\ToDoList\\ToDoList.DAL\\obj\\",
+        "outputPath": "D:\\GitHub\\ToDoList\\ToDoList.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\C#\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
-                "projectPath": "D:\\Projects\\C#\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj"
+              "D:\\GitHub\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
+                "projectPath": "D:\\GitHub\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "D:\\Projects\\C#\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
+    "D:\\GitHub\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
+        "projectUniqueName": "D:\\GitHub\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
         "projectName": "ToDoList.Domain",
-        "projectPath": "D:\\Projects\\C#\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
+        "projectPath": "D:\\GitHub\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
         "packagesPath": "C:\\Users\\artemLitvinenko\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\ToDoList\\ToDoList.Domain\\obj\\",
+        "outputPath": "D:\\GitHub\\ToDoList\\ToDoList.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -138,14 +138,14 @@
         }
       }
     },
-    "D:\\Projects\\C#\\ToDoList\\ToDoList\\ToDoList.csproj": {
+    "D:\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projects\\C#\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectUniqueName": "D:\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "D:\\Projects\\C#\\ToDoList\\ToDoList\\ToDoList.csproj",
+        "projectPath": "D:\\GitHub\\ToDoList\\ToDoList\\ToDoList.csproj",
         "packagesPath": "C:\\Users\\artemLitvinenko\\.nuget\\packages\\",
-        "outputPath": "D:\\Projects\\C#\\ToDoList\\ToDoList\\obj\\",
+        "outputPath": "D:\\GitHub\\ToDoList\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -170,8 +170,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\Projects\\C#\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
-                "projectPath": "D:\\Projects\\C#\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj"
+              "D:\\GitHub\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj": {
+                "projectPath": "D:\\GitHub\\ToDoList\\ToDoList.DAL\\ToDoList.DAL.csproj"
               }
             }
           }
@@ -186,6 +186,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[7.0.20, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[7.0.20, )"

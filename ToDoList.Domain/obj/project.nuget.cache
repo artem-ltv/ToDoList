@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "28pLevhnAyhmGMeVbCkdJVeGwf7SCftlNtX0X5ZtwR+86iYgJ7o2VS7lMpy8U1Tyvtk3RTfh33Koxutir71GeQ==",
+  "dgSpecHash": "UlxJLnlqmVzvnfqw+IubVJV/lwRv7vjj30fIVwtX6IAw8hzpPGwOW8TpGe0FOXOk4cuNN54Xj7d+qDSTN/KJgw==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\C#\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
+  "projectFilePath": "D:\\GitHub\\ToDoList\\ToDoList.Domain\\ToDoList.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
