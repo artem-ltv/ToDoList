@@ -17,3 +17,17 @@
     </div>
     <button id="createTask" class="btn btn-primary">Создать</button>
 </form>
+
+@section Scripts
+{
+    <script>
+        $('createTask').on('click', function(e){
+            e.preventDefault();
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("Index", "Task")',
+                data: $('#createdTaskForm').serialize()
+            })
+        });
+    </script>
+}
